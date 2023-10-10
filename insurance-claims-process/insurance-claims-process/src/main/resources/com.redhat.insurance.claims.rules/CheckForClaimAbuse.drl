@@ -1,0 +1,4 @@
+package com.redhat.insurance.claims.rules;
+
+declare Risk
+end
